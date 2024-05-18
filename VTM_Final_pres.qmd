@@ -1,0 +1,22 @@
+---
+title: "VTM Survey Presentation"
+format: revealjs
+     incremental: true
+editor: visual
+---
+
+# Background
+
+## Views that Matter Climate Survey
+
+# Whats the question?
+
+## How prepared are Massachusetts residence for extreme climate events?
+
+(What variable has the greatest influence?)
+
+# What techniques used to answer the question?
+
+# What do we need to know about the analysis?
+
+# What did analysis tell you? (results?)
